@@ -42,7 +42,7 @@ If every Nigerian is made to see the importance of tax payment, and the sustaina
 
 - The government can save operational cost of sending tax agents to business locations and offices.
 
-- We're essentially functioning as a third party service, we can deduct a token for the service charge.
+- We're essentially functioning as a third party service
 
 - Easily get tax receipts.
 
